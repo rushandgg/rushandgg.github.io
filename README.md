@@ -1,1 +1,1 @@
-# rushandgg.githib.io
+# rushandgg.githiub.io
