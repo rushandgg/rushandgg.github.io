@@ -1,6 +1,6 @@
-locale: "en-US"
-title: Strata # Title of your site
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+locale: "ko-KR"
+title: 안냥!냥냥냥 # Title of your site
+url: "http://rushandgg.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 google_analytics_key: ""
 
@@ -18,9 +18,9 @@ author:
 
 # Social details for the jekyll-seo-tag gem
 social:
-  name: Strata Reloaded Template
+  name: Social 문구
   links:
-    - https://github.com/comfusion/strata-reloaded-jekyll-template
+    - https://github.com/rushandgg
 
 permalink: pretty
 
